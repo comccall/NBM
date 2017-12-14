@@ -2,7 +2,7 @@ library(shiny)
 
 # Define UI for application that draws a histogram
 shinyUI(fluidPage(
-  titlePanel("NYC Marathon Simulation"),
+  titlePanel("Marathon Simulation"),
   
   sidebarLayout(
     sidebarPanel(
